@@ -4,4 +4,4 @@ COPY ./config/default.conf /etc/nginx/conf.d/default.conf
 
 COPY ./pages/ /var/www/pages/
 
-COPY ../../_includes/ssl/certs/ /etc/ssl/certs/nginx/
+COPY ./ssl/certs/trustup.io.test.* /etc/ssl/certs/nginx/
