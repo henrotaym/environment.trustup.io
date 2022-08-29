@@ -1,0 +1,7 @@
+version: '3'
+services:
+  proxy:
+    build: .
+    ports:
+      - 4001:80
+      - 4000:443
