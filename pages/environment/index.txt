@@ -1,3 +1,3 @@
 TRUSTUP_SERVER_AUTHORIZATION=exfOvslyjgn1bFQFPaJ2Mn7aazzXHhtv9CX0AYLojrT5rDE2UJxRDxUDKbYrTM7Lxx6HD1wxhqnkV0FmjHvwY6Na1MqkO9qBx6rg
 TRUSTUP_MEDIA_IO_URL=http://media.trustup.io
-TRUSTUP_MESSAGING_IO_URL=http://messaging.trustup.io
+TRUSTUP_MESSAGING_API_URL=https://messaging.trustup.io/api
